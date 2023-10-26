@@ -1,0 +1,5 @@
+Message.create(text: 'Hello Everyone!')
+Message.create(text: 'How is your day going?!')
+Message.create(text: 'Have a great week!')
+Message.create(text: 'Have a nice one!')
+Message.create(text: 'Hello World!')
