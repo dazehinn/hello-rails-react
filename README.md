@@ -1,4 +1,6 @@
 <a name="readme-top"></a>
+  <img class="logo" src="./app/assets/images/logo-no-background.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
 # Hello Rails React
 
@@ -122,7 +124,6 @@ No tests available for this project
 👤 **Nshanji Hilary Ndzi**
 
 - GitHub: [@dazehinn](https://github.com/dazehinn)
-- Twitter: [@HilaryNdzi](https://twitter.com/hilaryndzi)
 - LinkedIn: [@Nshanji Hilary Ndzi](https://www.linkedin.com/in/nshanji-hilary-ndzi/)
 
 <!-- FUTURE FEATURES -->
